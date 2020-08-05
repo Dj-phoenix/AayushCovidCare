@@ -15,15 +15,8 @@ import { LibrariesScreen } from '../scenes/libraries/libraries.component';
 const BottomTab = createBottomTabNavigator();
 const Drawer = createDrawerNavigator();
 
-/*
- * When dev is true in .expo/settings.json (started via `start:dev`),
- * open Components tab as default.
- */
 const initialTabRoute: string = __DEV__ ? 'Components' : 'Layouts';
 
-/*
- * Can we access it from `HomeNavigator`?
- */
 const ROOT_ROUTES: string[] = ['Home', 'Layouts', 'Components', 'Themes'];
 
 const isOneOfRootRoutes = (currentRoute: RouteProp<any, any>): boolean => {

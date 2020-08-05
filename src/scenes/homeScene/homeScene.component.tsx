@@ -6,9 +6,10 @@ import {
   Text
 } from '@ui-kitten/components';
 import { SafeAreaLayout } from '../../components/safe-area-layout.component';
+import { MappingContextValue, Theming } from '../../services/theme.service';
 
 
-export const ThemesScreen = ({ navigation }): React.ReactElement => {
+export const homeScreen = ({ navigation }): React.ReactElement => {
 
 
   return (
@@ -20,7 +21,7 @@ export const ThemesScreen = ({ navigation }): React.ReactElement => {
       />
       <Divider/>
       <Text>
-        "Hello Second Page to start work"
+        "Hello First Page to start work"
       </Text>
     </SafeAreaLayout>
   );

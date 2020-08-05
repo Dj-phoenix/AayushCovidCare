@@ -1,14 +1,12 @@
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
-
-import { DashboardsNavigator } from './dashboards.navigator';
-import { LayoutsScreen } from '../scenes/layouts/layouts.component';
+import { homeScreen } from '../scenes/homeScene/homeScene.component';
 
 const Stack = createStackNavigator();
 
 export const LayoutsNavigator = (): React.ReactElement => (
   <Stack.Navigator headerMode='none'>
-    <Stack.Screen name='Layouts' component={LayoutsScreen} />
-    <Stack.Screen name='Dashboards' component={DashboardsNavigator} />
+    <Stack.Screen name='Themes' component={homeScreen}/>
   </Stack.Navigator>
 );
+
