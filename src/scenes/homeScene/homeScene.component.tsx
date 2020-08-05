@@ -7,7 +7,7 @@ import {
 } from '@ui-kitten/components';
 import { SafeAreaLayout } from '../../components/safe-area-layout.component';
 import { MappingContextValue, Theming } from '../../services/theme.service';
-
+import {ZoneCard} from '../../components/zoneCard';
 
 export const homeScreen = ({ navigation }): React.ReactElement => {
 
@@ -23,6 +23,7 @@ export const homeScreen = ({ navigation }): React.ReactElement => {
       <Text>
         "Hello First Page to start work"
       </Text>
+      <ZoneCard xyz="rahul"/>
     </SafeAreaLayout>
   );
 };
