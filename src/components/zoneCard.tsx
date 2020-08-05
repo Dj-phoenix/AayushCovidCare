@@ -17,7 +17,7 @@ export const ZoneCard = (props: LayoutListProps) => {
     const { xyz } = props;
     const x = "jjjj";
     return (
-        <Text style={styles.rahul}>Hello Rahul! ZONE1223 {x} {xyz}</Text>
+        <Text style={styles.rahul}>Hello0000 Rahul! ZONE1223 {x} {xyz}</Text>
     );
 };
 
