@@ -17,13 +17,14 @@ const Drawer = createDrawerNavigator();
 
 const initialTabRoute: string = __DEV__ ? 'Components' : 'Layouts';
 
-const ROOT_ROUTES: string[] = ['Home', 'Layouts', 'Components', 'Themes'];
+const ROOT_ROUTES: string[] = ['Home', 'My Zone', 'Updates', 'Fit India'];
 
 const isOneOfRootRoutes = (currentRoute: RouteProp<any, any>): boolean => {
   return ROOT_ROUTES.find(route => currentRoute.name === route) !== undefined;
 };
 
 const TabBarVisibleOnRootScreenOptions = ({ route }): BottomTabNavigationOptions => {
+
   const currentRoute = route.state && route.state.routes[route.state.index];
   return { tabBarVisible: currentRoute && isOneOfRootRoutes(currentRoute) };
 };
@@ -33,9 +34,9 @@ const HomeTabsNavigator = (): React.ReactElement => (
     screenOptions={TabBarVisibleOnRootScreenOptions}
     initialRouteName={initialTabRoute}
     tabBar={props => <HomeBottomNavigation {...props} />}>
-    <BottomTab.Screen name='Layouts' component={LayoutsNavigator}/>
-    <BottomTab.Screen name='Components' component={ComponentsNavigator}/>
-    <BottomTab.Screen name='Themes' component={ThemesNavigator}/>
+    <BottomTab.Screen name='My Zone' component={LayoutsNavigator}/>
+    <BottomTab.Screen name='Updates' component={ComponentsNavigator}/>
+    <BottomTab.Screen name='Fit India' component={ThemesNavigator}/>
   </BottomTab.Navigator>
 );
 
