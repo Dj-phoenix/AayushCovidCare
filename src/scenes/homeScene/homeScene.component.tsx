@@ -15,6 +15,7 @@ import { RestartAppModal } from './restart-app-modal.component';
 
 import { BleCard } from './bleCard';
 
+import {ZoneCard} from '../../components/zoneCard';
 
 export const homeScreen = ({ navigation }): React.ReactElement => {
 
@@ -55,6 +56,11 @@ export const homeScreen = ({ navigation }): React.ReactElement => {
         ifPressNo={exitFromApplication}
         ifPressYes={toggleRestartModal}
       />
+      <Divider/>
+      <Text>
+        "Hello First Page to start work"
+      </Text>
+      <ZoneCard xyz="rahul"/>
     </SafeAreaLayout>
   );
 };
