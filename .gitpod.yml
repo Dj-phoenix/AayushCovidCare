@@ -4,7 +4,7 @@ image:
 # tasks:
   # - init: yarn install && yarn run build
   #   command: yarn run start
-tasks:
-- before: npm install -g expo-cli
-  init: npm install
+# tasks:
+# - before: npm install -g expo-cli
+#   init: npm install
   # command: expo start --host tunnel
