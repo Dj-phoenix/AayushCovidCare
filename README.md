@@ -1,3 +1,12 @@
+TASK:
+1 - fresh workspace clone 
+    a - npm install
+    b - pakacge.json , script{"start" : "npm run env -- prod && expo start --web --clear"}
+    c - src/scenes/homeScene/homeScene.component.ts - comment import bleCard and bleCard component
+    d - npm start
+2- For Next time - 
+    a - npm start  
+      
 # Kitten Tricks [<img src="https://i.imgur.com/oMcxwZ0.png" alt="Eva Design System" height="20px" />][link:eva] [![Build Status][badge:github-actions]][link:github-actions] [![runs with expo][badge:expo]][link:expo] [![Netlify Status][badge:netlify]][link:netlify]
 
 
