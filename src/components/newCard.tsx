@@ -5,6 +5,7 @@ import { LayoutItem } from '../model/layout-item.model';
 import { RestartAppModal } from './restartAppModal';
 import {HideModal} from './hideModal';
 import PushNotification from 'react-native-push-notification';
+import {ListCard} from './listCard';
 
 export interface LayoutListProps extends Omit<ListProps, 'renderItem'> {
     // data: LayoutItem[];
@@ -20,14 +21,14 @@ export const NewCard = (props: LayoutListProps) => {
     // const { val } = props;
     // const x = "dfdgdgd";
     const [restartModalVisible, setRestartModalVisible] = React.useState<boolean>(false);
-    const [counter, setCounter] = React.useState(0);
     const [hideModalDisplay, setHideModalDisplay] = React.useState<boolean>(false);
+    const [listCardDisplay, setListCardDisplay] = React.useState<boolean>(true);
 
   const exitFromApplication = (): void => {
     BackHandler.exitApp()
   }
-const alertNotification = (): void =>{
-  console.log("inside");
+ const alertNotification = (): void =>{
+   console.log("inside");
 //   PushNotification.localNotification({
 //     autoCancel: true,
 //     bigText:
@@ -56,10 +57,12 @@ const alertNotification = (): void =>{
         Water Drinker Alert!
       </Button>
  ) : (
-
+     <div>
 <Button onPress={() => alertNotification()}>
-        Notification
-      </Button>
+Notification
+</Button>
+<ListCard visible={listCardDisplay}/>
+</div>
  )}
     
       <RestartAppModal
