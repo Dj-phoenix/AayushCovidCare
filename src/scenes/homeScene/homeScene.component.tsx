@@ -13,7 +13,7 @@ import { RestartAppModal } from './restart-app-modal.component';
 
 
 
-import { BleCard } from './bleCard';
+import { BleCard,BleCardResult } from './bleCard';
 
 import {ZoneCard} from '../../components/zoneCard';
 
@@ -21,18 +21,24 @@ export const homeScreen = ({ navigation }): React.ReactElement => {
 
   const [restartModalVisible, setRestartModalVisible] = React.useState<boolean>(true);
 
-  React.useEffect(() => {
-    
-    // setRestartModalVisible(!restartModalVisible);
-  });
 
+  const [bleCardSearching, setbleCardSearching] = React.useState<boolean>(false);
+
+
+  React.useEffect(() => {
+   
+  }, []);
 
   const exitFromApplication = (): void => {
     BackHandler.exitApp()
   }
 
-  const toggleRestartModal = (): void => {
+  const toggleRestartModal = () => {
     setRestartModalVisible(!restartModalVisible);
+    const timer = setTimeout(() => 
+    setbleCardSearching(!bleCardSearching)
+    , 4000)
+     return () => clearTimeout(timer);
   }
   const renderDrawerAction = (): React.ReactElement => (
     <TopNavigationAction
@@ -40,6 +46,9 @@ export const homeScreen = ({ navigation }): React.ReactElement => {
       onPress={navigation.toggleDrawer}
     />
   );
+
+ 
+
   return (
     <SafeAreaLayout
       style={styles.safeArea}
@@ -48,19 +57,19 @@ export const homeScreen = ({ navigation }): React.ReactElement => {
         title='Aayush Covid Care'
         leftControl={renderDrawerAction()}
       />
-      
-      <BleCard 
-      />
-      <RestartAppModal
+      {!bleCardSearching ? (
+        <BleCard />
+      ) : (
+        <BleCardResult />
+      )}
+
+     <RestartAppModal
         visible={restartModalVisible}
         ifPressNo={exitFromApplication}
         ifPressYes={toggleRestartModal}
       />
       <Divider/>
-      <Text>
-        "Hello First Page to start work"
-      </Text>
-      <ZoneCard xyz="rahul"/>
+    
     </SafeAreaLayout>
   );
 };

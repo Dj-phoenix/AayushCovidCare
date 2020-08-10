@@ -24,9 +24,9 @@
  ],
  "orientation": "portrait",
  "userInterfaceStyle": "automatic",
- "icon": "./src/assets/images/image-app-icon.png",
+ "icon": "./src/assets/images/image-app-icon-new.png",
  "splash": {
- "image": "src/assets/images/image-splash.png",
+ "image": "src/assets/images/image-splash-new.png",
  "resizeMode": "contain"
  },
  "assetBundlePatterns": [

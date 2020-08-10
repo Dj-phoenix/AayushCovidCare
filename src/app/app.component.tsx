@@ -43,7 +43,7 @@ const App = ({ mapping, theme }): React.ReactElement => {
 const Splash = ({ loading }): React.ReactElement => (
   <SplashImage
     loading={loading}
-    source={require('../assets/images/image-splash.png')}
+    source={require('../assets/images/image-splash-new.png')}
   />
 );
 
