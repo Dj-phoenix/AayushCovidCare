@@ -8,6 +8,8 @@ import { createDrawerNavigator } from '@react-navigation/drawer';
 import { LayoutsNavigator } from './layouts.navigator';
 import { ComponentsNavigator } from './components.navigator';
 import { ThemesNavigator } from './themes.navigator';
+import { MyHomeNavigator } from './myGpsNavigator';
+
 import { HomeBottomNavigation } from '../scenes/home/home-bottom-navigation.component';
 import { HomeDrawer } from '../scenes/home/home-drawer.component';
 import { LibrariesScreen } from '../scenes/libraries/libraries.component';
@@ -34,8 +36,9 @@ const HomeTabsNavigator = (): React.ReactElement => (
     screenOptions={TabBarVisibleOnRootScreenOptions}
     initialRouteName={initialTabRoute}
     tabBar={props => <HomeBottomNavigation {...props} />}>
-    <BottomTab.Screen name='My Zone' component={LayoutsNavigator}/>
-    <BottomTab.Screen name='Updates' component={ComponentsNavigator}/>
+       <BottomTab.Screen name='My Zone' component={LayoutsNavigator}/>
+       <BottomTab.Screen name='Home' component={MyHomeNavigator}/>
+       <BottomTab.Screen name='Updates' component={ComponentsNavigator}/>
     <BottomTab.Screen name='Fit India' component={ThemesNavigator}/>
   </BottomTab.Navigator>
 );

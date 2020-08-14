@@ -2,7 +2,7 @@ import React from 'react';
 import { BottomNavigationTab, Divider } from '@ui-kitten/components';
 import { SafeAreaLayout } from '../../components/safe-area-layout.component';
 import { BrandBottomNavigation } from '../../components/brand-bottom-navigation.component';
-import { SearchIcon, ListIcon,BookIcon } from '../../components/icons';
+import { SearchIcon, ListIcon,BookIcon,GridIcon } from '../../components/icons';
 
 export const HomeBottomNavigation = (props): React.ReactElement => {
 
@@ -17,7 +17,11 @@ export const HomeBottomNavigation = (props): React.ReactElement => {
         appearance='noIndicator'
         selectedIndex={props.state.index}
         onSelect={onSelect}>
-        <BottomNavigationTab
+         <BottomNavigationTab
+          title='Home'
+          icon={GridIcon}
+        />
+         <BottomNavigationTab
           title='My Zone'
           icon={SearchIcon}
         />

@@ -8,12 +8,12 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/8f64cfb5b00dd1e8675b164e4c7b5296/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
@@ -52,12 +52,12 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/8f64cfb5b00dd1e8675b164e4c7b5296/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_btn_radio_to_on_mtrl_ring_outer_animation.xml.flat",
@@ -92,24 +92,24 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/color/switch_thumb_material_light.xml"
-    },
-    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
-    },
-    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -132,6 +132,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -144,12 +148,16 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/abc_ic_clear_material.xml"
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_entities_lib_maps_decode.json"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
@@ -188,12 +196,16 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/6441bbca59012a4c47904bfd632905ba/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/anim/abc_fade_in.xml"
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_document_nest.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_document_nest.kml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/6441bbca59012a4c47904bfd632905ba/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -204,24 +216,28 @@
         "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
@@ -236,6 +252,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/drawable-xhdpi-v4/amu_bubble_mask.9.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_mtrl_chip_text_color.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/color/mtrl_chip_text_color.xml"
     },
@@ -244,20 +264,28 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_microphone_control.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/edcbf64fdfe844ed29c04ac1c2432da5/res/drawable-xxhdpi-v4/microphone_control.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_entities_lib_maps_xml.json"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_mtrl_text_btn_text_color_selector.xml.flat",
@@ -268,12 +296,12 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -284,16 +312,20 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/drawable-xhdpi-v4/amu_bubble_shadow.9.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_mtrl_chip_background_color.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/color/mtrl_chip_background_color.xml"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/layout/design_text_input_password_icon.xml"
-    },
-    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/layout/design_text_input_password_icon.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
@@ -500,6 +532,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/8f64cfb5b00dd1e8675b164e4c7b5296/res/drawable/notification_tile_bg.xml"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_csstree_dist_defaultsyntax.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_csstree_dist_defaultsyntax.json"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -568,6 +604,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/animator/mtrl_fab_show_motion_spec.xml"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_multiple_placemarks.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_multiple_placemarks.kml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-watch-v20_abc_dialog_material_background.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-watch-v20/abc_dialog_material_background.xml"
     },
@@ -576,12 +616,24 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/6441bbca59012a4c47904bfd632905ba/res/drawable-mdpi-v4/googleg_standard_color_18.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_entities_lib_maps_legacy.json"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_evadesign_eva_themes_dark.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_evadesign_eva_themes_dark.json"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_cssselect_lib_procedure.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_cssselect_lib_procedure.json"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
@@ -608,12 +660,16 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_inline_style.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_inline_style.kml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/layout/redbox_view.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/layout/redbox_view.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
@@ -652,12 +708,12 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/6441bbca59012a4c47904bfd632905ba/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml.flat",
@@ -705,11 +761,15 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_up.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/anim/catalyst_slide_up.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_btn_radio_off_to_on_mtrl_animation.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_ground_overlay_color.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_ground_overlay_color.kml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -768,6 +828,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_ballon_gx_prefix.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_ballon_gx_prefix.kml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/interpolator_mtrl_linear_out_slow_in.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/interpolator/mtrl_linear_out_slow_in.xml"
     },
@@ -816,12 +880,20 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_entities_lib_maps_entities.json"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_default_balloon.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_default_balloon.kml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
@@ -854,6 +926,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
@@ -904,6 +980,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/6441bbca59012a4c47904bfd632905ba/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_version_config.json.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/edcbf64fdfe844ed29c04ac1c2432da5/res/raw/version_config.json"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/layout/design_layout_tab_text.xml"
     },
@@ -914,6 +994,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_basic_folder.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_basic_folder.kml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
@@ -968,6 +1052,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/btn_checkbox_checked_mtrl.xml"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_poly_style_boolean_alpha.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_poly_style_boolean_alpha.kml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -992,12 +1080,20 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/drawable-xxhdpi-v4/amu_bubble_mask.9.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/8f64cfb5b00dd1e8675b164e4c7b5296/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_src_app_appmappingmaterial.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/src_app_appmappingmaterial.json"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
@@ -1022,6 +1118,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/drawable-xxhdpi-v4/amu_bubble_shadow.9.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -1049,19 +1149,19 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/anim/catalyst_fade_out.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/6441bbca59012a4c47904bfd632905ba/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1101,11 +1201,19 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/layout/redbox_item_frame.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_speaker_silent.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/edcbf64fdfe844ed29c04ac1c2432da5/res/drawable-xxhdpi-v4/speaker_silent.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/interpolator-v21_mtrl_linear_out_slow_in.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_src_app_appmappingeva.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/src_app_appmappingeva.json"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
@@ -1136,12 +1244,20 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_speaker.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/edcbf64fdfe844ed29c04ac1c2432da5/res/drawable-xxhdpi-v4/speaker.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_multigeometry_placemarks.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_multigeometry_placemarks.kml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1166,6 +1282,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material_anim.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_evadesign_eva_themes_light.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_evadesign_eva_themes_light.json"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1234,6 +1354,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-v21_design_password_eye.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_evadesign_material_themes_dark.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_evadesign_material_themes_dark.json"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
@@ -1329,7 +1453,7 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/layout/redbox_item_title.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
@@ -1353,7 +1477,7 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_redbox_top_border_background.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/drawable/redbox_top_border_background.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/drawable/redbox_top_border_background.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1381,7 +1505,7 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/layout/dev_loading_view.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1400,8 +1524,16 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_btn_checkbox_to_checked_box_inner_merged_animation.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_extended_data.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_extended_data.kml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_mtrl_btn_stroke_color_selector.xml.flat",
@@ -1434,6 +1566,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_aidialog.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/edcbf64fdfe844ed29c04ac1c2432da5/res/layout/aidialog.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_0.xml.flat",
@@ -1477,7 +1613,7 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_down.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/anim/catalyst_slide_down.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1496,12 +1632,24 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_images_imagesplashnew.png.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/drawable-mdpi/src_assets_images_imagesplashnew.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/tooltip_frame_dark.xml"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_visibility_ground_overlay.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_visibility_ground_overlay.kml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_amu_webview.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/layout/amu_webview.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
@@ -1526,6 +1674,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/6441bbca59012a4c47904bfd632905ba/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/xml_file_provider_paths.xml.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/node_modules/react-native-webview/android/build/intermediates/packaged_res/debug/xml/file_provider_paths.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility_off.png.flat",
@@ -1588,6 +1740,14 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/6441bbca59012a4c47904bfd632905ba/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_unknwown_folder.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_unsupported.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_unsupported.kml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_mtrl_tabs_default_indicator.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/drawable/mtrl_tabs_default_indicator.xml"
     },
@@ -1600,8 +1760,16 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_assets_images_imageappiconnew.png.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/drawable-mdpi/src_assets_images_imageappiconnew.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_mic_control.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/edcbf64fdfe844ed29c04ac1c2432da5/res/drawable/mic_control.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
@@ -1622,6 +1790,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_src_app_apptheme.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/src_app_apptheme.json"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
@@ -1692,6 +1864,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_draw_order_ground_overlay.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_draw_order_ground_overlay.kml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/6441bbca59012a4c47904bfd632905ba/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
@@ -1733,11 +1909,19 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_cdata.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_cdata.kml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_mic_colors.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/edcbf64fdfe844ed29c04ac1c2432da5/res/color/mic_colors.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_bg_splash.xml.flat",
@@ -1749,7 +1933,7 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/xml_rn_dev_preferences.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/xml/rn_dev_preferences.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/xml/rn_dev_preferences.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
@@ -1784,8 +1968,12 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/anim/catalyst_fade_in.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1802,6 +1990,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_evadesign_material_themes_light.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_evadesign_material_themes_light.json"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
@@ -1846,6 +2038,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_nested_folders.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_nested_folders.kml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
@@ -1896,6 +2092,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_poly_style_boolean_numeric.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_poly_style_boolean_numeric.kml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
@@ -1936,6 +2136,14 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_domserializer_foreignnames.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_domserializer_foreignnames.json"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_evadesign_material_mapping.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_evadesign_material_mapping.json"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/6441bbca59012a4c47904bfd632905ba/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
     },
@@ -1957,7 +2165,7 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_fps_view.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/layout/fps_view.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1984,6 +2192,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/layout/abc_dialog_title_material.xml"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_node_modules_evadesign_eva_mapping.json.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/raw/node_modules_evadesign_eva_mapping.json"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/drawable-xxxhdpi-v4/design_ic_visibility_off.png"
     },
@@ -2006,6 +2218,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_cube.png.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/edcbf64fdfe844ed29c04ac1c2432da5/res/drawable-xxhdpi-v4/cube.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -2049,7 +2265,7 @@
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/82a9e90b707f304efe69e64b787c7bf2/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/1f3751e8394933cd1312c022d7fdf8b1/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
@@ -2092,24 +2308,36 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_basic_placemark.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_basic_placemark.kml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/color-v23_design_tint_password_toggle.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/125cc5591cfc0fc568d3c050f36a8707/res/color-v23/design_tint_password_toggle.xml"
     },
     {
-        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/mipmap-nodpi_img_background_splash.png.flat",
         "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/mipmap-nodpi/img_background_splash.png"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_amu_text_bubble.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/layout/amu_text_bubble.xml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
@@ -2124,6 +2352,10 @@
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/layout/abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_amu_info_window.xml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/layout/amu_info_window.xml"
+    },
+    {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/8f64cfb5b00dd1e8675b164e4c7b5296/res/layout-v21/notification_action_tombstone.xml"
     },
@@ -2134,6 +2366,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_nested_multigeometry.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_nested_multigeometry.kml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -2262,6 +2498,10 @@
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
         "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/14cba092705e584be235c55f90828942/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/raw_amu_ground_overlay.kml.flat",
+        "source": "/Users/dheerajkumarsharma/.gradle/caches/transforms-2/files-2.1/87eda78be66c7d4d385ca8b0981a8a72/res/raw/amu_ground_overlay.kml"
     },
     {
         "merged": "/Users/dheerajkumarsharma/MyHermesQ/AayushCovidCare/android/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",

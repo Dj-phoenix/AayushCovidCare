@@ -1,9 +1,9 @@
 import React from 'react';
-import { StyleSheet } from 'react-native';
-import { Divider, TopNavigation, TopNavigationAction } from '@ui-kitten/components';
-import { SafeAreaLayout } from '../../components/safe-area-layout.component';
+import {  TopNavigation, TopNavigationAction } from '@ui-kitten/components';
 import { MenuIcon } from '../../components/icons';
 
+import { View, StyleSheet } from 'react-native';
+import WebView from 'react-native-webview';
 
 export const ComponentsScreen = ({ navigation }): React.ReactElement => {
 
@@ -16,26 +16,26 @@ export const ComponentsScreen = ({ navigation }): React.ReactElement => {
   );
 
   return (
-    <SafeAreaLayout
-      style={styles.safeArea}
-      insets='top'>
-      <TopNavigation
+    <>
+    <TopNavigation
         title='Aayush Covid Care'
         leftControl={renderDrawerAction()}
       />
-      <Divider/>
-      
-    </SafeAreaLayout>
+     <View style={styles.container}>
+    <WebView
+       source={{ html: require('./ExtraaFeed.js')() }}
+      originWhitelist={['*']}
+    />
+  </View>
+  </>
   );
 };
 
 const styles = StyleSheet.create({
-  safeArea: {
+  container: {
     flex: 1,
-  },
-  searchContainer: {
-    paddingHorizontal: 16,
-    paddingTop: 16,
-    paddingBottom: 16,
-  },
+    justifyContent: 'center',
+    backgroundColor: '#ecf0f1',
+    margin:20
+  }
 });

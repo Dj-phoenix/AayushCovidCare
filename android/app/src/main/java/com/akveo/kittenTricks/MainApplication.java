@@ -11,6 +11,9 @@ import com.akveo.aayushcovidcare.packages.splash.SplashScreenPackage;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 
+//custom code
+import com.airbnb.android.react.maps.MapsPackage;
+
 public class MainApplication extends Application implements ReactApplication {
 
   private final ReactNativeHost mReactNativeHost =
@@ -25,6 +28,10 @@ public class MainApplication extends Application implements ReactApplication {
           @SuppressWarnings("UnnecessaryLocalVariable")
           List<ReactPackage> packages = new PackageList(this).getPackages();
           packages.add(new SplashScreenPackage());
+
+          //add custom code
+         // packages.add(new MapsPackage());
+          
           return packages;
         }
 

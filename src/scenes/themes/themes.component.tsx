@@ -6,11 +6,14 @@ import {
   TouchableOpacity,
   Image,
   FlatList,
+  SafeAreaView
    } from 'react-native';
    import {
     TopNavigation,TopNavigationAction
   } from '@ui-kitten/components';
 
+
+import BotAyur from '../../components/BotAayur/botAyur';
 import { MenuIcon } from '../../components/icons';
 const initialData = [
         {id:1, title: "10 Foods That Boost the Immune System",views:'90',comments:'10',time:"2020-08-01 12:15 pm", image:"https://s3-ap-southeast-1.amazonaws.com/punchtantra/assets/img/fitness-2.jpg", description:"If you’re looking for ways to prevent colds, the flu, and other infections, your first step should be a visit to your local grocery store. Plan your meals to include these 15 powerful immune system boosters..."},
@@ -32,6 +35,8 @@ export const ThemesScreen = ({ navigation }): React.ReactElement => {
     />
   );
   return (
+<>
+<SafeAreaView style={styles.safeArea}>
     <View style={styles.container}>
        <TopNavigation
         title='Aayush Covid Care'
@@ -82,6 +87,11 @@ export const ThemesScreen = ({ navigation }): React.ReactElement => {
         )
       }}/>
   </View>
+
+<BotAyur />
+
+</SafeAreaView>
+</>
   );
 };
 

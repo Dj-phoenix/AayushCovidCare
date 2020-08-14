@@ -11,17 +11,24 @@ import com.facebook.react.shell.MainReactPackage;
 import java.util.Arrays;
 import java.util.ArrayList;
 
-import com.akveo.aayushcovidcare.BuildConfig;
-import com.akveo.aayushcovidcare.R;
-
 // @react-native-community/masked-view
 import org.reactnative.maskedview.RNCMaskedViewPackage;
 // react-native-appearance
 import io.expo.appearance.RNCAppearancePackage;
+// react-native-ble-manager
+import it.innove.BleManagerPackage;
+// react-native-ble-plx
+import com.polidea.reactnativeble.BlePackage;
 // react-native-device-info
 import com.learnium.RNDeviceInfo.RNDeviceInfo;
+// react-native-dialogflow
+import de.innfactory.apiai.RNApiAiPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
+// react-native-maps
+import com.airbnb.android.react.maps.MapsPackage;
+// react-native-push-notification
+import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
 // react-native-reanimated
 import com.swmansion.reanimated.ReanimatedPackage;
 // react-native-safe-area-context
@@ -30,6 +37,10 @@ import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 import com.swmansion.rnscreens.RNScreensPackage;
 // react-native-svg
 import com.horcrux.svg.SvgPackage;
+// react-native-voice
+import com.wenkesj.voice.VoicePackage;
+// react-native-webview
+import com.reactnativecommunity.webview.RNCWebViewPackage;
 
 public class PackageList {
   private Application application;
@@ -77,12 +88,19 @@ public class PackageList {
       new MainReactPackage(mConfig),
       new RNCMaskedViewPackage(),
       new RNCAppearancePackage(),
+      new BleManagerPackage(),
+      new BlePackage(),
       new RNDeviceInfo(),
+      new RNApiAiPackage(),
       new RNGestureHandlerPackage(),
+      new MapsPackage(),
+      new ReactNativePushNotificationPackage(),
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage(),
-      new SvgPackage()
+      new SvgPackage(),
+      new VoicePackage(),
+      new RNCWebViewPackage()
     ));
   }
 }
